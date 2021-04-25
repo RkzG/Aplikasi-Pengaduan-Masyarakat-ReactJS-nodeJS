@@ -1,0 +1,214 @@
+.sidebar {
+  width: 15rem;
+  position: fixed;
+  left: 0;
+  top: 0;
+  height: 100%;
+  background: #dd2f6e;
+}
+
+.sidebar-brand {
+  height: 90px;
+  padding: 1rem 0rem 1rem 2rem;
+  color: #fff;
+}
+
+.sidebar-brand span {
+  display: inline-block;
+  padding-right: 1rem;
+}
+
+.sidebar-menu ul {
+  list-style-type: none;
+}
+
+.sidebar-menu li {
+  width: 100px;
+  margin-bottom: 1.5rem;
+  padding-left: 2rem;
+}
+
+.sidebar-li {
+  display: block;
+  color: #fff;
+  font-size: 1.1rem;
+}
+
+.sidebar-li:first-child {
+  font-size: 1.5rem;
+  padding-right: 1rem;
+}
+
+.statistik {
+  margin-top: 8rem;
+}
+
+.formPengaduan {
+  margin-top: 8rem;
+}
+
+.formPengaduan h2 {
+  text-align: center;
+  margin-bottom: 1rem;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  color: #fff;
+}
+
+.isiLaporan {
+  width: 40rem;
+}
+
+.isiLaporan::placeholder {
+  /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: rgb(230, 230, 230) !important;
+  opacity: 1; /* Firefox */
+  font-size: 1rem;
+}
+
+.bodyPengaduan {
+  width: 70rem;
+  height: 25rem;
+}
+
+.bodyPengaduan2 {
+  width: 70rem;
+  height: 15rem;
+}
+.pengaduanForm {
+  margin-top: 2rem;
+}
+
+.btnPengaduan {
+  margin-top: 1rem;
+  margin-left: 1rem;
+}
+
+.tabelLaporan {
+  margin-top: 12rem;
+}
+
+.tabelLaporan h2 {
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+.bgLaporan {
+  background-color: aqua;
+}
+
+.statistik h2 {
+  text-align: center;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  margin-top: 17rem;
+  font-size: 4rem;
+  color: #fff;
+}
+
+.navbar h1 {
+  color: rgb(48, 48, 48);
+  font-size: 2rem;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.nav-item {
+  margin-left: 5rem;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.signOut {
+  margin-left: 27rem;
+}
+
+.headerLogin {
+  color: #fff;
+  margin-left: 8rem;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+.headerRegister {
+  color: #fff;
+  margin-left: 7rem;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.form-group label {
+  color: #fff;
+}
+
+.createAccount {
+  color: #fff;
+  text-decoration: none;
+}
+
+.createAccount:hover {
+  color: rgb(113, 180, 255) !important;
+  text-decoration: none;
+}
+
+.bodyLogin {
+  margin-top: 6rem;
+  box-shadow: rgb(48, 48, 48);
+}
+
+.bodyRegister {
+  margin-top: 6rem;
+  box-shadow: rgb(48, 48, 48);
+}
+
+.bg-glass {
+  background-color: rgba(255, 255, 255, 0.2) !important;
+  backdrop-filter: blur(8px);
+  border-radius: 1rem !important;
+}
+
+.homescreen {
+  background-image: url(img/Homepage.jpg);
+  background-size: cover;
+  background-position-y: center;
+  height: 43.4rem;
+}
+
+.content {
+  padding-left: 8rem;
+  padding-top: 8rem;
+}
+
+.content h1 {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  padding-left: 3rem;
+  font-size: 3rem;
+}
+
+.content h2 {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  margin-top: 1rem;
+}
+
+.userLogin button {
+  width: 8rem;
+  height: 3rem;
+}
+
+.adminLogin button {
+  width: 8rem;
+  height: 3rem;
+}
+
+.btnBack {
+  margin-top: 2rem;
+}
+
+.tableResponse {
+  margin-top: 10rem;
+}
+
+.deskripsiMenanggapi {
+  margin-top: 25rem;
+}
